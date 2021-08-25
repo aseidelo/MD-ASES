@@ -15,16 +15,4 @@ This repository contains python scripts for the experimental setup described in 
 
 * Experiments as described in the Experimental setup on *experiments.py*. 
 
-## Download Yelp Academic dataset
-
-## data_prep.py
-
-## aspect.py
-
-## sentiment.py
-
-## train.py
-
-## experiments.py
-
 Obs.: These scripts were develloped with the exclusive porpuse of generating experimental results for the above cited paper. Therefore, our implementations of classic AI methods (such as Naive-Bayes classification or TF-IDF aspect identification) or data preparation weren't designed to be generic, reusable, optimized, etc. Feel free to use it though :)  
